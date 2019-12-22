@@ -1,0 +1,6 @@
+
+bin/.DS_Store
+*.user
+test/.DS_Store
+test/unit/.DS_Store
+test/unit/bin/.DS_Store
